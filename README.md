@@ -2,6 +2,8 @@
 
 > A Vue.js + Pure.css `Hello World` project
 
+[Live Demo](https://rafaeldelboni.github.io/vue-purecss-helloworld/)
+
 ## Build Setup
 
 ``` bash
